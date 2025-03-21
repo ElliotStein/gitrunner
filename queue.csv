@@ -1,4 +1,3 @@
 script,args,kwargs,status
-dummy.py,"[""1""]","{""cheese"": ""on,toast""}",ready
-dummy.py,"[""2""]","{""beans"": ""on,toast""}",ready
 dummy,"[""2"", ""beans=on,toast""]",{},ready
+dummy,"[""1"", ""cheese=on,toast""]",{},ready
