@@ -1,3 +1,4 @@
 script,args,kwargs,status
 dummy,"[""2"", ""beans=on,toast""]",{},ready
 dummy,"[""1"", ""cheese=on,toast""]",{},ready
+dummy_2,[],{},ready
